@@ -39,14 +39,14 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
-
-**Output:**
-
-**RTL**
+<img width="1025" height="627" alt="image" src="https://github.com/user-attachments/assets/96d9f814-8af8-4be3-8cc9-c2be4d55d0d0" />
+<img width="1030" height="605" alt="image" src="https://github.com/user-attachments/assets/3f25aeee-a8c9-43b2-bcb9-7943a0243789" />
 
 **Timing Diagram**
+<img width="1031" height="582" alt="image" src="https://github.com/user-attachments/assets/5854adf5-c873-4e4d-862a-41fa5a9a35c9" />
+
+<img width="1037" height="653" alt="image" src="https://github.com/user-attachments/assets/119cc628-594c-446e-b3ba-e317f74cf306" />
 
 **Result:**
-
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
