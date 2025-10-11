@@ -39,12 +39,13 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+<img width="964" height="843" alt="image" src="https://github.com/user-attachments/assets/ddf75268-9e12-458e-ba8b-535fd3574d8a" />
 
 **Output:**
+<img width="1047" height="540" alt="image" src="https://github.com/user-attachments/assets/fdfd5363-ab18-4aae-85e1-fff421284235" />
 
-**RTL**
-
-**Timing Diagram**
+**Truth table**
+<img width="1039" height="546" alt="image" src="https://github.com/user-attachments/assets/4c5f6803-6ac4-4cd6-a1e2-01fb854cd0ec" />
 
 **Result:**
 
